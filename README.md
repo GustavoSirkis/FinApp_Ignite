@@ -1,5 +1,8 @@
 ## FinAPI - Financeira
 
+NODE JS
+Framework = Express
+
 ---
 ## Requisitos (o que precisa fazer)
 
@@ -29,7 +32,7 @@
 ## Requisitos da conta
 
 1. cpf - string
-2. nmae - string
+2. name - string
 3. id - uuid (universaly unique identifier) 
 4. statement - [] 
 
