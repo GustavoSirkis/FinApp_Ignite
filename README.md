@@ -1,7 +1,7 @@
 ## FinAPI - Financeira
 
 NODE JS
-Framework = Express
+Express
 
 ---
 ## Requisitos (o que precisa fazer)
